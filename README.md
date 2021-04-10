@@ -1,2 +1,2 @@
-# Algorithm_Python
-Python 알고리즘과 자료구조
+# Python 자료구조 및 알고리즘 독학
+Python 알고리즘과 자료구조 독학 내용 정리
